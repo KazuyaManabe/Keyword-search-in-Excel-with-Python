@@ -7,5 +7,9 @@ Please prepare Excel with the text entered. Also, make sure that "mecab" is prep
 
 [![GitHub issues](https://img.shields.io/github/issues/KazuyaManabe/Keyword-search-in-Excel-with-Python)](https://github.com/KazuyaManabe/Keyword-search-in-Excel-with-Python/issues) [![GitHub forks](https://img.shields.io/github/forks/KazuyaManabe/Keyword-search-in-Excel-with-Python)](https://github.com/KazuyaManabe/Keyword-search-in-Excel-with-Python/network) [![GitHub stars](https://img.shields.io/github/stars/KazuyaManabe/Keyword-search-in-Excel-with-Python)](https://github.com/KazuyaManabe/Keyword-search-in-Excel-with-Python/stargazers) [![GitHub license](https://img.shields.io/github/license/KazuyaManabe/Keyword-search-in-Excel-with-Python)](https://github.com/KazuyaManabe/Keyword-search-in-Excel-with-Python)
 
-## 1.使い方/1.How to use
-(In the process of creation)
+## 1.使い方 / 1.How to use
+(作成中 / In the process of creation)
+
+
+## 2.参考文献 / 2. References
+『Python実践データ分析100本ノック』: https://www.shuwasystem.co.jp/book/9784798058757.html
