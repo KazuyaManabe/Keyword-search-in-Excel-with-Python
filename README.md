@@ -1,11 +1,9 @@
 # Keyword-search-in-Excel-with-Python
 Excelで各行の文章にキーワードが含まれているときに目印を加えるプログラムです。
-
-文章が入力されたExcelをご準備ください。
+文章が入力されたExcelをご準備ください。/n
 また、"mecab"がパソコンに準備されていることを確認してください。
 
 It is a program that adds a mark when a keyword is included in the text of each line in Excel. 
-
 Please prepare Excel with the text entered.
 Also, make sure that "mecab" is prepared on your computer.
 
